@@ -32,7 +32,7 @@ Para iniciar a API usando o Visual Studio, siga estas etapas:
 
 4. Selecione "Debug" > "Start Debugging" ou pressione F5.
 
-A API estará disponível em `http://localhost:5000`. Certifique-se de que o SQL Server e a API estejam em execução antes de usar os endpoints.
+Certifique-se de que o SQL Server e a API estejam em execução antes de usar os endpoints.
 
 ## Endpoints
 
