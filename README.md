@@ -67,11 +67,11 @@ POST http://localhost:5000/clientes
 
 Corpo da solicitação (JSON):
 {
-"nomeCompleto": "John Doe",
-"telefone": "123-456-7890",
-"email": "john@example.com",
-"rua": "123 Main St",
-"cidade": "City",
-"estado": "State",
-"cep": "12345"
+  "nomeCompleto": "Marcos Xavier",
+  "telefone": "(19) 93456-7890",
+  "email": "john@example.com",
+  "rua": "Rua 0",
+  "cidade": "Cidade",
+  "estado": "State",
+  "cep": "12345"
 }
